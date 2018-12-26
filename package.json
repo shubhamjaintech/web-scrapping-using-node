@@ -1,0 +1,24 @@
+{
+  "name": "web-scrapping-using-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinkrboy/web-scrapping-using-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinkrboy/web-scrapping-using-node/issues"
+  },
+  "homepage": "https://github.com/tinkrboy/web-scrapping-using-node#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
